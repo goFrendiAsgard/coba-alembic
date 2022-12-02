@@ -38,7 +38,7 @@ pip install -r requirements.txt
 - There will be two migration files:
     - `/one/alembic/versions/<migration-message>.py`
     - `/two/alembic/versions/<migration-message>.py`
-- There will be three tables in `anu.db`:
+- There will be four tables in `anu.db`:
     - `alembic_version_one`
     - `alembic_version_two`
     - `books`
